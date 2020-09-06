@@ -1,2 +1,1 @@
-# hello-world
-# this is me, Gabriel Alonso
+# This is a project for Coursera
